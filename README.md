@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [hdbham.com](hdbham.com)
 
-- 💬 Ask me about **Front-end Frameworks, Node.js, Discrete Mathematics, Data structures and scary CS math**
+- 💬 Ask me about **Front-end Frameworks, Node.js, Discrete Mathematics, Data Structures and networking protocols**
 
 - 📄 Know about my experiences [Resume Link](Resume Link)
 
