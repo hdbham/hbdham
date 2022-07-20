@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hunter Burningham</h1>
 <h3 align="center">I am a Software Developer based in Salt Lake City, Utah. I am an activist first. I fell in love with development when I learned it was a skill by which I can make life easier for people. The world is difficult and I want to give back wherever I can.</h3>
 
-- 🌱 I’m currently learning **Edge React & Node tricks**
+- 🌱 I’m currently learning **MERN development**
 
 - 🤝 I’m looking for help with [TORified Freedom Wrapper](https://github.com/hdbham/TORified-Freedom-Wrapper)
 
