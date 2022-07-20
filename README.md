@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **Front-end Frameworks, Node.js,**
 
-- 📫 How to reach me **burninghamhunter@gmail.com**
-
 - 📄 Know about my experiences [Resume Link](Resume Link)
 
 - ⚡⚡The secret to life is doing now what retirees do once retired. Birdwatching, metal-detecting, gold-panning and gardening**
