@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [Resume Link](Resume Link)
 
-- ⚡ Fun fact **The secret to life is doing now what retirees do once retired. Birdwatching, metal-detecting, gold-panning and gardening**
+- ⚡⚡The secret to life is doing now what retirees do once retired. Birdwatching, metal-detecting, gold-panning and gardening**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
