@@ -9,7 +9,8 @@
 
 - 📄 Know about my experiences [Resume Link](Resume Link)
 
-- ⚡ The secret to life is: <br>
-  Doing now what retirees do once retired. So, try the 'boring' hobbies! Birdwatching, metal-detecting, gold-panning and gardening etc.
-  Practice getting dopamine out of simple things!
+- ⚡ The secret to life is: Doing now what retirees do once retired. 
+<br> 
+So, try the 'boring' hobbies! Birdwatching, metal-detecting, gold-panning and gardening etc.
+Practice getting dopamine out of simple things!
 
