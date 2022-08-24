@@ -3,12 +3,6 @@
 
 - 🌱 I’m currently learning **MERN Full Stack Web Development** because I like the portability and functionality of Web-based applications. 
 
-- I have adopted a system of note-taking that uses wiki-link interlinking and promotes spaced-repetition.
-
-- I am working through The Odin Project because for some reason I hadn't.
-
-- I am starting from scratch relearning all my maths curiculum from Algebra to Discrete Math & Calculus
-
 - 🤝 I’m looking for help with a Tor-enabled webview client: [TORified Freedom Wrapper](https://github.com/hdbham/TORified-Freedom-Wrapper)
 
 - 👨‍💻 All of my projects are available at [hdbham.com](hdbham.com)
