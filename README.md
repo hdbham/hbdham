@@ -9,6 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [hdbham.com](hdbham.com)
 
-- 📄 Know about my experiences [Resume Link](Resume Link)
+- 📄 Know about my experiences [Resume Link](resumelinkisntactive.com)
 
-- ⚡ The secret to life is: Doing now what retirees do once retired. Birdwatching, metal-detecting, wood-working are likely to give you more dopamine than you think :)
+- ⚡ The secret to life is: Doing now what retirees do once retired. <br> Birdwatching, metal-detecting, wood-working are likely to give you more dopamine than you think :)
