@@ -5,10 +5,10 @@
 
 - 🌱 I’m currently learning **MERN Full Stack Web Development** because I like the portability and accessibility of Web-based applications vs native
 
-- 🤝 I’m looking for help with a Tor-enabled webview client: [TORified Freedom Wrapper](https://github.com/hdbham/TORified-Freedom-Wrapper)
+- 🤝 I’m looking for help with an android project which is a Tor-enabled webview client, intending to make womens healthcare safer: [TORified Freedom Wrapper](https://github.com/hdbham/TORified-Freedom-Wrapper)
 
 - 👨‍💻 All of my projects are available at [hdbham.com](hdbham.com)
 
 - 📄 Know about my experiences [Resume Link](Resume Link)
 
-- ⚡ The secret to life is: Doing now what retirees do once retired. 
+- ⚡ The secret to life is: Doing now what retirees do once retired. Birdwatching, metal-detecting, wood-working are likely to give you more dopamine than you think :)
