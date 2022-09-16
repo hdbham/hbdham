@@ -16,4 +16,5 @@
 
 - ⚡ The secret to life is: Doing now what retirees do once retired. <br> Birdwatching, metal-detecting, wood-working are likely to give you more dopamine than you think :)
 
-- ☕ Available for coffee chats! [LETS TALK :) ](https://calendly.com/hdbham/30min) 
+<div align="center"> ☕ Schedule a coffee chat :)   </div>
+<div align="center"><a <a href="https://calendly.com/hdbham/30min">calendly</a></div>
