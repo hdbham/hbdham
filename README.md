@@ -1,5 +1,6 @@
 
-![banner](https://user-images.githubusercontent.com/13264116/190543154-50ebd732-bcb2-4eb5-974e-3b39af9f289d.gif)
+
+![welcomebanner](https://user-images.githubusercontent.com/13264116/190553479-96807461-9204-4eb4-bb68-96a226595581.gif)
 
 
 <h3 align="center">╭(◔ ◡ ◔)/ <h3>
