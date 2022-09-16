@@ -3,7 +3,7 @@
 
 <h3 align="center">I am a Software Developer based in Salt Lake City, Utah. I am an activist first. I fell in love with development when I learned it was a skill by which I can make life easier for people. The world is difficult and I want to give back wherever I can.</h3>
 
-- 🌱 I’m currently learning **MERN Full Stack Web Development** because I like the portability and accessibility of Web-based applications vs native
+- 🌱 I’m currently learning **MERN Full Stack Web Development** because I like the portability and accessibility of Web-based applications vs native. [Learn about what Web can do](https://whatwebcando.today)
 
 - 🤝 I’m looking for help with an android project which is a Tor-enabled webview client, intending to make womens healthcare safer: [TORified Freedom Wrapper](https://github.com/hdbham/TORified-Freedom-Wrapper)
 
