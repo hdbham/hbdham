@@ -20,5 +20,5 @@
 <div align="center"> ☕ Schedule a coffee chat :)   </div>
 <div align="center"><a <a href="https://calendly.com/hdbham/30min">calendly</a></div>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hdbham&layout=donut&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
  
