@@ -1,8 +1,4 @@
 
-
-![welcomebanner](https://user-images.githubusercontent.com/13264116/190553479-96807461-9204-4eb4-bb68-96a226595581.gif)
-
-
 <h3 align="center">╭(◔ ◡ ◔)/ <h3>
 
 <h3>I am an activist first. I fell in love with development when I learned it was a skill by which I can make life easier for people. The world is difficult and I want to give back wherever I can.</h3>
